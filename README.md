@@ -1,5 +1,6 @@
 # txt2xlsx
-Also … meine Konvertierungswünsche:
+
+Konvertierungswünsche:
 
 ob der Header bleibt oder nicht , ist mir egal
 die Spaltenköpfe sollten so bleiben
